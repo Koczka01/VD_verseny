@@ -2,6 +2,7 @@ Csapat neve: Gymbrok
 Tagok: Boroncsok Dominik, Jóvér Áron
 Iskola: VSZC Boronkay György Műszaki Technikum és Gimnázium
 Felkészítő tanár: Baksza Dávid
+E-mail cím: dominik.you9@gmail.com
 
 Programfejlesztői környezet: Visual Studio Code
 Verzió: 1.98.2
